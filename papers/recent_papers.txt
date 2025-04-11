@@ -1,0 +1,4 @@
+1. AlphaFold-Multimer: Complex protein prediction (Nature, 2021)
+2. ESM2: Evolutionary-scale modeling of proteins (Nature, 2023)
+3. GraphPPIs: Graph Attention for PPI (Bioinformatics, 2022)
+4. ProtTrans: BERT-style models for protein sequences (EMBO J, 2021)
